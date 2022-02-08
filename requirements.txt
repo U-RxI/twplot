@@ -1,1 +1,2 @@
-#empty
+comtrade==0.0.10
+matplotlib==3.5.0
